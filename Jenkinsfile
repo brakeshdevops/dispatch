@@ -4,4 +4,4 @@ env.COMPONENT = "dispatch"
 env.BUILD_LABEL = "WORKSTATION"
 
 //groovy libraries
-nodejs()
+golang()
